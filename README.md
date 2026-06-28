@@ -1,5 +1,4 @@
-# stock-market-time-series-analysis
-This repository presents an end-to-end Time Series Analysis Capstone Project completed as part of an IIT-certified Data Science &amp; Analytics program. The project focuses on forecasting stock prices of selected NSE-listed companies using historical market data and applying data-driven portfolio allocation strategies in a simulated trading environment
+
 # 📈 Stock Market Time Series Forecasting using Python
 
 > **An End-to-End Time Series Analysis Capstone Project completed as part of an IIT-certified Data Science & AI Program.**
@@ -171,31 +170,31 @@ The investment strategy was then tested on the **StockGro Virtual Trading Platfo
 
 ### Stock Price Trend
 
-![Stock Price](images/stock_price_trend.png)
+![Stock Price](https://github.com/Diyaachoudhary6/stock-market-time-series-analysis/blob/main/images/1.%20Apple%20Stock%20Price%20Before%20and%20After%202021.png)
 
 ---
 
 ### Correlation Heatmap
 
-![Heatmap](images/correlation_heatmap.png)
+![Heatmap](https://github.com/Diyaachoudhary6/stock-market-time-series-analysis/blob/main/images/2.%20Stock%20Price%20Correlation%20Heatmap.png)
 
 ---
 
 ### Relative Strength Index (RSI)
 
-![RSI](images/technical_indicator_rsi.png)
+![RSI](https://github.com/Diyaachoudhary6/stock-market-time-series-analysis/blob/main/images/3.%20RSI%20Analysis.png)
 
 ---
 
 ### Stock Forecast
 
-![Forecast](images/prophet_forecast_infy.png)
+![Forecast](https://github.com/Diyaachoudhary6/stock-market-time-series-analysis/blob/main/images/4.%20INFY%20Forecast.png)
 
 ---
 
 ### Actual vs Predicted Prices
 
-![Prediction](images/actual_vs_predicted.png)
+![Prediction](https://github.com/Diyaachoudhary6/stock-market-time-series-analysis/blob/main/images/5.%20Apple%20Stock%20Price%20-%20Real%20vs.%20Predicted.png)
 
 ---
 
