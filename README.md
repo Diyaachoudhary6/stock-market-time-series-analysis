@@ -214,39 +214,22 @@ time-series-stock-price-forecasting/
 │   └── TCS.csv
 
 ├── notebooks/
-│   └── Stock_Market_Time_Series_Analysis.ipynb
+│   ├── Data_Collection.ipynb
+    └── Stock_Market_Time_Series_Analysis.ipynb
 
 ├── reports/
-│   └── Final_Report.pdf
+│   ├── Problem_Statement.pdf
+    └── StockGro_Final_Report.pdf
 
 ├── images/
-│   ├── stock_price_trend.png
-│   ├── correlation_heatmap.png
-│   ├── prophet_forecast_infy.png
-│   ├── technical_indicator_rsi.png
-│   └── actual_vs_predicted.png
+│   ├── Stock_Price_before_&_after_2021 .png             -> Shows trend analysis (EDA)
+│   ├── Stock_Price_Correlation_Heatmap.png              -> Demonstrates exploratory data analysis
+│   ├── RSI Analysis.png                                 -> Shows technical indicator analysis
+│   ├── INFY_Forecast.png                                -> Shows your forecasting model output
+│   └── Actual_vs_predicted.png                          -> Demonstrates model evaluation
 
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
+└── README.md
 ```
-
----
-
-### Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```
-Stock_Market_Time_Series_Analysis.ipynb
-```
-
-Run all cells sequentially.
 
 ---
 
