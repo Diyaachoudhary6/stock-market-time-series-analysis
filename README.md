@@ -234,20 +234,6 @@ time-series-stock-price-forecasting/
 
 ---
 
-# 🚀 How to Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/time-series-stock-price-forecasting.git
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Launch Jupyter Notebook
 
 ```bash
