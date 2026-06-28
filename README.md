@@ -239,8 +239,8 @@ time-series-stock-price-forecasting/
 │   ├── Stock_Price_Correlation_Heatmap.png              -> Demonstrates exploratory data analysis
 │   ├── RSI Analysis.png                                 -> Shows technical indicator analysis
 │   ├── INFY_Forecast.png                                -> Shows your forecasting model output
-│   └── Actual_vs_predicted.png                          -> Demonstrates model evaluation
-
+│   ├── Actual_vs_predicted.png                          -> Demonstrates model evaluation
+    └── Certificate by IIT, Guwahati
 └── README.md
 ```
 
