@@ -21,6 +21,19 @@ The objective of this project is to analyze historical stock market data of sele
 The project covers the complete analytics workflow—from data collection and preprocessing to forecasting, portfolio allocation, and performance evaluation using the **StockGro virtual trading platform**.
 
 ---
+## 📜 Certificate
+
+<p align="center">
+  <a href="https://certificate.givemycertificate.com/c/bef60329-30bc-4c5a-9ac7-3ccf9f1f0d27">
+    <img src="images/certificate.png" alt="Certificate" width="800">
+  </a>
+</p>
+
+<p align="center">
+  <i>Click the certificate to verify it online.</i>
+</p>
+
+---
 
 # 🎯 Project Objectives
 
