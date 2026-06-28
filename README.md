@@ -1,7 +1,7 @@
 
 # 📈 Stock Market Time Series Forecasting using Python
 
-> **An End-to-End Time Series Analysis Capstone Project completed as part of an IIT-certified Data Science & AI Program.**
+> **An End-to-End Time Series Analysis Capstone Project completed as part of an IIT-certified Data Science & Analytics Program.**
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
@@ -21,7 +21,7 @@ The objective of this project is to analyze historical stock market data of sele
 The project covers the complete analytics workflow—from data collection and preprocessing to forecasting, portfolio allocation, and performance evaluation using the **StockGro virtual trading platform**.
 
 ---
-## 📜 Certificate
+## 📜 Certificate by IIT, Guwahati
 
 <p align="center">
   <a href="https://certificate.givemycertificate.com/c/bef60329-30bc-4c5a-9ac7-3ccf9f1f0d27">
