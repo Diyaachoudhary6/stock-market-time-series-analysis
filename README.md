@@ -258,13 +258,11 @@ time-series-stock-price-forecasting/
 - Portfolio Optimization
 
 ---
-
-# 👨‍💻 Author
+# 👩‍💻 Author
 
 **Diyaa Choudhary**
 
-Aspiring Data Analyst | Python | SQL | Excel | Power BI | Tableau | Time Series Analysis
+Aspiring Business Risk Analyst | SQL | Advance Excel | Tableau | Python | Time Series Analysis
 
 ---
-
-## ⭐ If you found this project useful, consider giving it a Star!
+## If you found this project helpful, feel free to ⭐ the repository!
